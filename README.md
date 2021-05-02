@@ -16,7 +16,7 @@ And run:
 
 You can also choose ResNet50 use :
 ```bash
-!python main.py -e 400 -b 36 -lr 0.0001 -m ResNet152 -d 1 --resume 'result/checkpoint.pth.tar'
+!python main.py -e 400 -b 36 -lr 0.0001 -m ResNet50 -d 1 --resume 'result/checkpoint.pth.tar'
 ```
 
 There tells the hard tuning process :
